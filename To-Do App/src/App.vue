@@ -26,7 +26,7 @@
 <script>
 import TodoItem from './components/TodoItem'
 import InputField from './components/InputField'
-import axios from 'axios'
+import config from './config/config.json'
 
 export default {
   name: 'App',
@@ -40,11 +40,18 @@ export default {
     }
   },
   computed: {
-    todos () {
-      axios.get('http://192.168.100.254:5000/get-lists').then(function( response ){
-                console.log(response.data)
-                this.todoslist = response.data;
-            }.bind(this));
+    async todos () {
+    var response = await fetch(
+        `http://${config["ip"]}:${config["port"]}/get-lists`,
+        {
+          headers: {
+            "Content-Type": "application/json",
+          },
+          method: "POST",
+        }
+      );
+      const data = await response.json();
+      console.log("Data"+data);
     }
   },
   methods: {

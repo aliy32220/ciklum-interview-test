@@ -46,3 +46,23 @@ INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 03:30:19 PM
 WARNING:  * Running on all addresses.
    WARNING: This is a development server. Do not use it in a production deployment. on 11/17/2021 03:30:19 PM
 INFO:  * Running on http://192.168.100.18:5000/ (Press CTRL+C to quit) on 11/17/2021 03:30:19 PM
+INFO:  * Restarting with stat on 11/17/2021 03:32:31 PM
+WARNING:  * Debugger is active! on 11/17/2021 03:32:33 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 03:32:33 PM
+WARNING:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment. on 11/17/2021 03:32:33 PM
+INFO:  * Running on http://192.168.100.18:5000/ (Press CTRL+C to quit) on 11/17/2021 03:32:33 PM
+INFO:  * Restarting with stat on 11/17/2021 03:35:40 PM
+WARNING:  * Debugger is active! on 11/17/2021 03:35:40 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 03:35:40 PM
+WARNING:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment. on 11/17/2021 03:35:41 PM
+INFO:  * Running on http://192.168.100.18:5000/ (Press CTRL+C to quit) on 11/17/2021 03:35:41 PM
+INFO:  * Restarting with stat on 11/17/2021 03:36:47 PM
+WARNING:  * Debugger is active! on 11/17/2021 03:36:49 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 03:36:49 PM
+WARNING:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment. on 11/17/2021 03:36:50 PM
+INFO:  * Running on http://192.168.100.18:5000/ (Press CTRL+C to quit) on 11/17/2021 03:36:50 PM
+INFO: 192.168.100.18 - - [17/Nov/2021 15:38:46] "POST /insert-lists HTTP/1.1" 200 - on 11/17/2021 03:38:46 PM
+INFO: 192.168.100.18 - - [17/Nov/2021 15:39:13] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 03:39:13 PM
