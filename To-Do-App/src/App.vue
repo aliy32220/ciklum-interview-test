@@ -24,7 +24,6 @@
 </template>
 
 <script>
-import TodoItem from './components/TodoItem'
 import InputField from './components/InputField'
 import config from './config/config.json'
 import axios from 'axios'
@@ -34,7 +33,6 @@ axios.defaults.headers.common['Access-Control-Allow-Origin'] = '*';
 export default {
   name: 'App',
   components: {
-    TodoItem,
     InputField
   },
   data () {
