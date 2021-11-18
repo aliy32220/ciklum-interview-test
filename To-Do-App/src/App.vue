@@ -25,7 +25,6 @@
 
 <script>
 import InputField from './components/InputField'
-import config from './config/config.json'
 import axios from 'axios'
 axios.defaults.headers.get['Access-Control-Allow-Origin'] = '*';
 axios.defaults.headers.common['Access-Control-Allow-Origin'] = '*';
@@ -49,24 +48,20 @@ export default {
     async getlists(){
       var data = {}
         await axios.post('http://127.0.0.1:8000/get-lists', data, this.config).then( async(response) => {
-          console.log(response.data.Data[0]["ToDo"]);
           for(var i = 0; i<response.data.Data.length; i++)
           { 
               this.todoslist.push(response.data.Data[i]['ToDo']);
           }
-          console.log(this.todoslist[0]);
       }).catch((error) => {
           console.log("Error in Getting Lists", error);
       });
     },
     async insertlists(){
-      console.log(this.todoslist)
       var title = this.$refs.inputFeild.getlistTitle()
       var data = {
           Title :  title
         }
         await axios.post('http://127.0.0.1:8000/insert-lists', data, this.config).then( async(response) => {
-          console.log(response);
           this.todoslist.push(title)
           this.$refs.inputFeild.clearField()
       }).catch((error) => {
