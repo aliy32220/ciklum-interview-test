@@ -47,7 +47,7 @@ export default {
   methods: {
     async getlists(){
       var data = {}
-        await axios.post('http://127.0.0.1:8000/get-lists', data, this.config).then( async(response) => {
+        await axios.post('http://localhost:5000/get-lists', data, this.config).then( async(response) => {
           for(var i = 0; i<response.data.Data.length; i++)
           { 
               this.todoslist.push(response.data.Data[i]['ToDo']);
@@ -61,7 +61,7 @@ export default {
       var data = {
           Title :  title
         }
-        await axios.post('http://127.0.0.1:8000/insert-lists', data, this.config).then( async(response) => {
+        await axios.post('http://localhost:5000/insert-lists', data, this.config).then( async(response) => {
           this.todoslist.push(title)
           this.$refs.inputFeild.clearField()
       }).catch((error) => {
