@@ -15,7 +15,6 @@ export default new Vuex.Store({
         title,
         done: false
       })
-      console.log
     },
     toggleTodo ({ commit }, todo) {
       commit('toggleTodo', {

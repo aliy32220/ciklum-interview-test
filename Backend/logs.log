@@ -66,3 +66,355 @@ WARNING:  * Running on all addresses.
 INFO:  * Running on http://192.168.100.18:5000/ (Press CTRL+C to quit) on 11/17/2021 03:36:50 PM
 INFO: 192.168.100.18 - - [17/Nov/2021 15:38:46] "POST /insert-lists HTTP/1.1" 200 - on 11/17/2021 03:38:46 PM
 INFO: 192.168.100.18 - - [17/Nov/2021 15:39:13] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 03:39:13 PM
+INFO:  * Restarting with stat on 11/17/2021 04:11:44 PM
+WARNING:  * Debugger is active! on 11/17/2021 04:11:49 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 04:11:49 PM
+WARNING:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment. on 11/17/2021 04:11:53 PM
+INFO:  * Running on http://192.168.100.18:5000/ (Press CTRL+C to quit) on 11/17/2021 04:11:53 PM
+INFO: 192.168.100.18 - - [17/Nov/2021 16:11:55] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 04:11:55 PM
+INFO: 192.168.100.18 - - [17/Nov/2021 16:12:27] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 04:12:27 PM
+INFO: 192.168.100.18 - - [17/Nov/2021 16:12:43] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 04:12:43 PM
+INFO: 192.168.100.18 - - [17/Nov/2021 16:13:56] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 04:13:56 PM
+INFO: 192.168.100.18 - - [17/Nov/2021 16:16:06] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 04:16:06 PM
+INFO: 192.168.100.18 - - [17/Nov/2021 16:16:06] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 04:16:06 PM
+INFO: 192.168.100.18 - - [17/Nov/2021 16:16:51] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 04:16:51 PM
+INFO: 192.168.100.18 - - [17/Nov/2021 16:29:17] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 04:29:17 PM
+INFO:  * Restarting with stat on 11/17/2021 04:30:34 PM
+WARNING:  * Debugger is active! on 11/17/2021 04:30:35 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 04:30:35 PM
+WARNING:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment. on 11/17/2021 04:30:35 PM
+INFO:  * Running on http://192.168.100.18:5000/ (Press CTRL+C to quit) on 11/17/2021 04:30:35 PM
+INFO:  * Restarting with stat on 11/17/2021 04:33:18 PM
+WARNING:  * Debugger is active! on 11/17/2021 04:33:20 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 04:33:20 PM
+WARNING:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment. on 11/17/2021 04:33:20 PM
+INFO:  * Running on http://192.168.100.18:5000/ (Press CTRL+C to quit) on 11/17/2021 04:33:20 PM
+INFO: 192.168.100.18 - - [17/Nov/2021 16:34:36] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 04:34:36 PM
+INFO: 192.168.100.18 - - [17/Nov/2021 16:34:48] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 04:34:48 PM
+INFO:  * Restarting with stat on 11/17/2021 04:35:06 PM
+WARNING:  * Debugger is active! on 11/17/2021 04:35:08 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 04:35:08 PM
+WARNING:  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment. on 11/17/2021 04:35:09 PM
+INFO:  * Running on http://192.168.100.18:5000/ (Press CTRL+C to quit) on 11/17/2021 04:35:09 PM
+INFO:  * Detected change in 'D:\\ciklum-interview-test\\Backend\\main.py', reloading on 11/17/2021 04:35:15 PM
+INFO:  * Restarting with stat on 11/17/2021 04:35:15 PM
+WARNING:  * Debugger is active! on 11/17/2021 04:35:17 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 04:35:17 PM
+INFO:  * Running on http://192.168.100.18:5000/ (Press CTRL+C to quit) on 11/17/2021 04:35:18 PM
+INFO:  * Restarting with stat on 11/17/2021 04:35:20 PM
+WARNING:  * Debugger is active! on 11/17/2021 04:35:22 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 04:35:22 PM
+INFO:  * Running on http://192.168.100.18:5000/ (Press CTRL+C to quit) on 11/17/2021 04:35:23 PM
+INFO: 192.168.100.18 - - [17/Nov/2021 16:35:28] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 04:35:28 PM
+INFO: 192.168.100.18 - - [17/Nov/2021 16:35:38] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 04:35:38 PM
+INFO: 192.168.100.18 - - [17/Nov/2021 16:38:23] "[33mOPTIONS /get-info HTTP/1.1[0m" 404 - on 11/17/2021 04:38:23 PM
+INFO: 192.168.100.18 - - [17/Nov/2021 16:38:36] "[33mOPTIONS /get-info HTTP/1.1[0m" 404 - on 11/17/2021 04:38:36 PM
+INFO: 192.168.100.18 - - [17/Nov/2021 16:39:03] "[33mOPTIONS /get-info HTTP/1.1[0m" 404 - on 11/17/2021 04:39:03 PM
+INFO: 192.168.100.18 - - [17/Nov/2021 16:39:16] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 04:39:16 PM
+INFO: 192.168.100.18 - - [17/Nov/2021 16:39:23] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 04:39:23 PM
+INFO:  * Restarting with stat on 11/17/2021 04:40:38 PM
+WARNING:  * Debugger is active! on 11/17/2021 04:40:39 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 04:40:39 PM
+INFO:  * Running on http://192.168.100.18:5000/ (Press CTRL+C to quit) on 11/17/2021 04:40:39 PM
+INFO:  * Detected change in 'D:\\ciklum-interview-test\\Backend\\main.py', reloading on 11/17/2021 04:40:45 PM
+INFO:  * Restarting with stat on 11/17/2021 04:40:45 PM
+WARNING:  * Debugger is active! on 11/17/2021 04:40:46 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 04:40:46 PM
+INFO:  * Running on http://192.168.100.18:5000/ (Press CTRL+C to quit) on 11/17/2021 04:40:46 PM
+INFO:  * Restarting with stat on 11/17/2021 04:40:49 PM
+WARNING:  * Debugger is active! on 11/17/2021 04:40:50 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 04:40:50 PM
+INFO:  * Running on http://192.168.100.18:5000/ (Press CTRL+C to quit) on 11/17/2021 04:40:50 PM
+INFO: 192.168.100.18 - - [17/Nov/2021 16:41:21] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 04:41:21 PM
+INFO:  * Detected change in 'D:\\ciklum-interview-test\\Backend\\main.py', reloading on 11/17/2021 04:42:40 PM
+INFO:  * Restarting with stat on 11/17/2021 04:42:40 PM
+WARNING:  * Debugger is active! on 11/17/2021 04:42:41 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 04:42:41 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 04:42:41 PM
+INFO:  * Restarting with stat on 11/17/2021 04:42:43 PM
+WARNING:  * Debugger is active! on 11/17/2021 04:42:44 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 04:42:44 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 04:42:44 PM
+INFO:  * Restarting with stat on 11/17/2021 04:42:47 PM
+WARNING:  * Debugger is active! on 11/17/2021 04:42:49 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 04:42:49 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 04:42:50 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 16:43:03] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 04:43:03 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 16:43:30] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 04:43:30 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 16:43:40] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 04:43:40 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 16:44:01] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 04:44:01 PM
+INFO:  * Restarting with stat on 11/17/2021 04:44:15 PM
+WARNING:  * Debugger is active! on 11/17/2021 04:44:15 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 04:44:15 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 04:44:15 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 16:44:21] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 04:44:21 PM
+INFO:  * Restarting with stat on 11/17/2021 04:44:53 PM
+WARNING:  * Debugger is active! on 11/17/2021 04:44:55 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 04:44:55 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 04:44:55 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 16:45:13] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 04:45:13 PM
+INFO:  * Restarting with stat on 11/17/2021 04:45:25 PM
+WARNING:  * Debugger is active! on 11/17/2021 04:45:27 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 04:45:27 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 04:45:27 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 16:45:49] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 04:45:49 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 16:51:01] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 04:51:01 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 16:51:26] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 04:51:26 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 16:51:37] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 04:51:37 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 16:52:08] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 04:52:08 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 16:52:46] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 04:52:46 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 16:56:17] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 04:56:17 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 16:59:10] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 04:59:10 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:00:15] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:00:15 PM
+INFO:  * Restarting with stat on 11/17/2021 05:00:19 PM
+WARNING:  * Debugger is active! on 11/17/2021 05:00:20 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 05:00:20 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 05:00:21 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:00:37] "OPTIONS /insert-lists HTTP/1.1" 200 - on 11/17/2021 05:00:37 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:01:38] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:01:38 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:03:35] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:03:35 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:03:35] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:03:35 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:03:46] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:03:46 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:04:03] "OPTIONS /insert-lists HTTP/1.1" 200 - on 11/17/2021 05:04:03 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:11:28] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:11:28 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:14:47] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:14:47 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:23:30] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:23:30 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:24:28] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:24:28 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:28:42] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:28:42 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:28:52] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:28:52 PM
+INFO:  * Restarting with stat on 11/17/2021 05:29:53 PM
+WARNING:  * Debugger is active! on 11/17/2021 05:29:55 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 05:29:55 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 05:29:56 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:30:03] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:30:03 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:30:59] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:30:59 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:31:54] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:31:54 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:33:21] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:33:21 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:33:49] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:33:49 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:34:07] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:34:07 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:34:57] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:34:57 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:35:41] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:35:41 PM
+INFO:  * Restarting with stat on 11/17/2021 05:36:01 PM
+WARNING:  * Debugger is active! on 11/17/2021 05:36:02 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 05:36:02 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 05:36:02 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:36:05] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:36:05 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:36:21] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:36:21 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:37:36] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:37:36 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:38:32] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:38:32 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:38:40] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:38:40 PM
+INFO:  * Detected change in 'D:\\ciklum-interview-test\\Backend\\main.py', reloading on 11/17/2021 05:38:52 PM
+INFO:  * Restarting with stat on 11/17/2021 05:38:52 PM
+WARNING:  * Debugger is active! on 11/17/2021 05:38:53 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 05:38:53 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 05:38:53 PM
+INFO:  * Restarting with stat on 11/17/2021 05:38:57 PM
+WARNING:  * Debugger is active! on 11/17/2021 05:38:59 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 05:38:59 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 05:39:00 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:39:17] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:39:17 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:39:27] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:39:27 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:39:53] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:39:53 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:39:57] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:39:57 PM
+INFO:  * Detected change in 'D:\\ciklum-interview-test\\Backend\\main.py', reloading on 11/17/2021 05:40:57 PM
+INFO:  * Restarting with stat on 11/17/2021 05:40:57 PM
+WARNING:  * Debugger is active! on 11/17/2021 05:40:59 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 05:40:59 PM
+INFO:  * Restarting with stat on 11/17/2021 05:41:03 PM
+WARNING:  * Debugger is active! on 11/17/2021 05:41:06 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 05:41:06 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 05:41:06 PM
+INFO:  * Detected change in 'D:\\ciklum-interview-test\\Backend\\main.py', reloading on 11/17/2021 05:42:25 PM
+INFO:  * Restarting with stat on 11/17/2021 05:42:25 PM
+WARNING:  * Debugger is active! on 11/17/2021 05:42:27 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 05:42:27 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 05:42:27 PM
+INFO:  * Restarting with stat on 11/17/2021 05:42:32 PM
+WARNING:  * Debugger is active! on 11/17/2021 05:42:35 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 05:42:35 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 05:42:35 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:42:50] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:42:50 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:43:21] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:43:21 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:43:48] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:43:48 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:43:57] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:43:57 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:44:32] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:44:32 PM
+INFO:  * Detected change in 'D:\\ciklum-interview-test\\Backend\\main.py', reloading on 11/17/2021 05:45:03 PM
+INFO:  * Restarting with stat on 11/17/2021 05:45:03 PM
+WARNING:  * Debugger is active! on 11/17/2021 05:45:05 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 05:45:05 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 05:45:05 PM
+INFO:  * Restarting with stat on 11/17/2021 05:45:09 PM
+WARNING:  * Debugger is active! on 11/17/2021 05:45:12 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 05:45:12 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 05:45:13 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:45:17] "[35m[1mPOST /get-lists HTTP/1.1[0m" 500 - on 11/17/2021 05:45:17 PM
+INFO:  * Detected change in 'D:\\ciklum-interview-test\\Backend\\main.py', reloading on 11/17/2021 05:45:31 PM
+INFO:  * Restarting with stat on 11/17/2021 05:45:31 PM
+WARNING:  * Debugger is active! on 11/17/2021 05:45:34 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 05:45:34 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 05:45:34 PM
+INFO:  * Detected change in 'D:\\ciklum-interview-test\\Backend\\main.py', reloading on 11/17/2021 05:45:36 PM
+INFO:  * Restarting with stat on 11/17/2021 05:45:36 PM
+WARNING:  * Debugger is active! on 11/17/2021 05:45:38 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 05:45:38 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 05:45:38 PM
+INFO:  * Restarting with stat on 11/17/2021 05:45:41 PM
+WARNING:  * Debugger is active! on 11/17/2021 05:45:44 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 05:45:44 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 05:45:44 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:45:48] "[35m[1mPOST /get-lists HTTP/1.1[0m" 500 - on 11/17/2021 05:45:48 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:46:00] "[35m[1mPOST /get-lists HTTP/1.1[0m" 500 - on 11/17/2021 05:46:00 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:47:40] "[35m[1mPOST /get-lists HTTP/1.1[0m" 500 - on 11/17/2021 05:47:40 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:48:00] "[35m[1mPOST /get-lists HTTP/1.1[0m" 500 - on 11/17/2021 05:48:00 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:48:15] "[35m[1mPOST /get-lists HTTP/1.1[0m" 500 - on 11/17/2021 05:48:15 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:48:31] "[35m[1mPOST /get-lists HTTP/1.1[0m" 500 - on 11/17/2021 05:48:31 PM
+INFO:  * Detected change in 'D:\\ciklum-interview-test\\Backend\\main.py', reloading on 11/17/2021 05:51:06 PM
+INFO:  * Restarting with stat on 11/17/2021 05:51:06 PM
+WARNING:  * Debugger is active! on 11/17/2021 05:51:08 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 05:51:08 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 05:51:09 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:51:25] "[35m[1mPOST /get-lists HTTP/1.1[0m" 500 - on 11/17/2021 05:51:25 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:51:42] "[35m[1mPOST /get-lists HTTP/1.1[0m" 500 - on 11/17/2021 05:51:42 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:52:22] "[35m[1mPOST /get-lists HTTP/1.1[0m" 500 - on 11/17/2021 05:52:22 PM
+INFO:  * Detected change in 'D:\\ciklum-interview-test\\Backend\\main.py', reloading on 11/17/2021 05:53:25 PM
+INFO:  * Restarting with stat on 11/17/2021 05:53:25 PM
+INFO:  * Restarting with stat on 11/17/2021 05:53:29 PM
+WARNING:  * Debugger is active! on 11/17/2021 05:53:32 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 05:53:32 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 05:53:32 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:54:00] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:54:00 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:54:14] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:54:14 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:54:53] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:54:53 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:55:11] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:55:11 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:58:37] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 05:58:37 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:59:12] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 05:59:12 PM
+INFO:  * Restarting with stat on 11/17/2021 05:59:23 PM
+WARNING:  * Debugger is active! on 11/17/2021 05:59:25 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 05:59:25 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 05:59:26 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 17:59:31] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 05:59:31 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:00:54] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:00:54 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:02:45] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 06:02:45 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:02:53] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:02:53 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:04:18] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:04:18 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:04:37] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:04:37 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:05:16] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:05:16 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:05:25] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:05:25 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:05:46] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:05:46 PM
+INFO:  * Detected change in 'D:\\ciklum-interview-test\\Backend\\main.py', reloading on 11/17/2021 06:08:44 PM
+INFO:  * Restarting with stat on 11/17/2021 06:08:44 PM
+WARNING:  * Debugger is active! on 11/17/2021 06:08:46 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 06:08:46 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 06:08:46 PM
+INFO:  * Restarting with stat on 11/17/2021 06:08:51 PM
+WARNING:  * Debugger is active! on 11/17/2021 06:08:54 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 06:08:54 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 06:08:55 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:08:58] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:08:58 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:09:09] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:09:09 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:09:41] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 06:09:41 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:10:38] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 06:10:38 PM
+INFO:  * Detected change in 'D:\\ciklum-interview-test\\Backend\\main.py', reloading on 11/17/2021 06:12:48 PM
+INFO:  * Restarting with stat on 11/17/2021 06:12:48 PM
+INFO:  * Restarting with stat on 11/17/2021 06:12:53 PM
+WARNING:  * Debugger is active! on 11/17/2021 06:12:55 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 06:12:55 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 06:12:55 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:12:57] "[31m[1mPOST /get-lists HTTP/1.1[0m" 405 - on 11/17/2021 06:12:57 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:13:13] "GET /get-lists HTTP/1.1" 200 - on 11/17/2021 06:13:13 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:13:40] "GET /get-lists HTTP/1.1" 200 - on 11/17/2021 06:13:40 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:13:46] "GET /get-lists HTTP/1.1" 200 - on 11/17/2021 06:13:46 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:15:55] "GET /get-lists HTTP/1.1" 200 - on 11/17/2021 06:15:55 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:16:12] "GET /get-lists HTTP/1.1" 200 - on 11/17/2021 06:16:12 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:17:52] "GET /get-lists HTTP/1.1" 200 - on 11/17/2021 06:17:52 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:18:00] "GET /get-lists HTTP/1.1" 200 - on 11/17/2021 06:18:00 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:21:09] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:21:09 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:21:15] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:21:15 PM
+INFO:  * Restarting with stat on 11/17/2021 06:26:16 PM
+WARNING:  * Debugger is active! on 11/17/2021 06:26:19 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 06:26:19 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 06:26:19 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:26:45] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:26:45 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:26:52] "GET /get-lists HTTP/1.1" 200 - on 11/17/2021 06:26:52 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:27:34] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:27:34 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:27:35] "GET /get-lists HTTP/1.1" 200 - on 11/17/2021 06:27:35 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:27:49] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:27:49 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:27:50] "GET /get-lists HTTP/1.1" 200 - on 11/17/2021 06:27:50 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:28:24] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:28:24 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:28:26] "GET /get-lists HTTP/1.1" 200 - on 11/17/2021 06:28:26 PM
+INFO:  * Detected change in 'D:\\ciklum-interview-test\\Backend\\main.py', reloading on 11/17/2021 06:31:11 PM
+INFO:  * Restarting with stat on 11/17/2021 06:31:11 PM
+INFO:  * Restarting with stat on 11/17/2021 06:31:18 PM
+WARNING:  * Debugger is active! on 11/17/2021 06:31:20 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 06:31:20 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 06:31:20 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:31:40] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:31:40 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:31:47] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 06:31:47 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:32:22] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:32:22 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:32:24] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 06:32:24 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:32:45] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:32:45 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:32:46] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 06:32:46 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:34:26] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:34:26 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:34:29] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 06:34:29 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:35:31] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:35:31 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:35:32] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 06:35:32 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:39:43] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:39:43 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:39:46] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 06:39:46 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:40:36] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:40:36 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:40:39] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 06:40:39 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:41:40] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:41:40 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:41:44] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 06:41:44 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:42:27] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:42:27 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:42:31] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 06:42:31 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:44:05] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:44:05 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:44:11] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 06:44:11 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:46:07] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:46:07 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:46:11] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 06:46:11 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:46:36] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:46:36 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:46:39] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 06:46:39 PM
+INFO:  * Restarting with stat on 11/17/2021 06:47:29 PM
+WARNING:  * Debugger is active! on 11/17/2021 06:47:29 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 06:47:29 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 06:47:30 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:47:34] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:47:34 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:47:34] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 06:47:34 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:51:03] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:51:03 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:51:03] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 06:51:03 PM
+INFO:  * Restarting with stat on 11/17/2021 06:51:16 PM
+WARNING:  * Debugger is active! on 11/17/2021 06:51:18 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 06:51:18 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 06:51:19 PM
+INFO:  * Detected change in 'D:\\ciklum-interview-test\\Backend\\main.py', reloading on 11/17/2021 06:51:22 PM
+INFO:  * Restarting with stat on 11/17/2021 06:51:22 PM
+WARNING:  * Debugger is active! on 11/17/2021 06:51:25 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 06:51:25 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 06:51:25 PM
+INFO:  * Restarting with stat on 11/17/2021 06:51:29 PM
+WARNING:  * Debugger is active! on 11/17/2021 06:51:31 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 06:51:31 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 06:51:31 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:51:38] "OPTIONS /insert-lists HTTP/1.1" 200 - on 11/17/2021 06:51:38 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:51:54] "OPTIONS /insert-lists HTTP/1.1" 200 - on 11/17/2021 06:51:54 PM
+INFO:  * Detected change in 'D:\\ciklum-interview-test\\Backend\\main.py', reloading on 11/17/2021 06:52:05 PM
+INFO:  * Restarting with stat on 11/17/2021 06:52:05 PM
+INFO:  * Restarting with stat on 11/17/2021 06:52:10 PM
+WARNING:  * Debugger is active! on 11/17/2021 06:52:12 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 06:52:12 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 06:52:12 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:52:20] "OPTIONS /insert-lists HTTP/1.1" 200 - on 11/17/2021 06:52:20 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:52:36] "POST /insert-lists HTTP/1.1" 200 - on 11/17/2021 06:52:36 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:56:59] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:56:59 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:57:01] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 06:57:01 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:57:11] "OPTIONS /insert-lists HTTP/1.1" 200 - on 11/17/2021 06:57:11 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:57:14] "POST /insert-lists HTTP/1.1" 200 - on 11/17/2021 06:57:14 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:58:12] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:58:12 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:58:15] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 06:58:15 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:58:43] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:58:43 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:58:45] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 06:58:45 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:59:51] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:59:51 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 18:59:54] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 06:59:54 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 19:03:31] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 07:03:31 PM

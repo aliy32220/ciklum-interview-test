@@ -2,10 +2,6 @@
   <v-form>
     <v-text-field v-model="newItemTitle"
                   label="What do you need to do?"
-                  @keydown.enter.prevent="addTodo"
-                  autofocus
-                  :rules="[rules.minLength]"
-                  required
                   >
     </v-text-field>
   </v-form>
@@ -32,6 +28,13 @@ export default {
         this.$store.dispatch('addTodo', this.newItemTitle)
         this.newItemTitle = ''
       }
+    },
+    getlistTitle(){
+      return this.newItemTitle;
+    },
+    clearField()
+    {
+      this.newItemTitle = "";
     }
   }
 }
