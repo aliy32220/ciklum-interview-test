@@ -1,13 +1,17 @@
-FROM python:3.6.8-alpine
+# Base python package
+FROM python:3.8-slim-buster
 
-LABEL image for a Backend flask application
+# Working directory
+WORKDIR /app
 
-WORKDIR /Backend
+# Copy the dependencies
+COPY requirements.txt .
 
+# Install the dependencies
+RUN pip3 install -r requirements.txt
+
+# Copy the files
 COPY . .
 
-RUN ["pip3", "install", "pipenv"]
-
-RUN ["pipenv", "install"]
-
-CMD pipenv run python main.py
+# Executable commands
+CMD [ "python3", "-m" , "flask", "run", "--host=0.0.0.0"]
