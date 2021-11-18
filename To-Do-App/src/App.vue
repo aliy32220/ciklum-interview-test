@@ -16,7 +16,7 @@
         </v-card-text>
         <v-card-actions>
           <v-spacer></v-spacer>
-          <v-btn color="success" @click="addTodo">Save Item</v-btn>
+          <v-btn color="success" @click="insertlists">Save Item</v-btn>
         </v-card-actions>
       </v-card>
     </v-flex>
@@ -27,6 +27,9 @@
 import TodoItem from './components/TodoItem'
 import InputField from './components/InputField'
 import config from './config/config.json'
+import axios from 'axios'
+axios.defaults.headers.get['Access-Control-Allow-Origin'] = '*';
+axios.defaults.headers.common['Access-Control-Allow-Origin'] = '*';
 
 export default {
   name: 'App',
@@ -36,27 +39,44 @@ export default {
   },
   data () {
     return {
-      todoslist: []
+      todoslist: [],
+      config: { headers: { 'Accept': 'application/json', 'Content-Type':'application/json' }},
+      todos (){
+        this.todoslist;
+      }
     }
   },
-  computed: {
-    async todos () {
-    var response = await fetch(
-        `http://${config["ip"]}:${config["port"]}/get-lists`,
-        {
-          headers: {
-            "Content-Type": "application/json",
-          },
-          method: "POST",
-        }
-      );
-      const data = await response.json();
-      console.log("Data"+data);
-    }
+  async created()
+  {
+      this.getlists();
   },
   methods: {
-    addTodo () {
-      this.$refs.inputFeild.addTodo()
+    async getlists(){
+      var data = {}
+        await axios.post('http://127.0.0.1:8000/get-lists', data, this.config).then( async(response) => {
+          console.log(response.data.Data[0]["ToDo"]);
+          for(var i = 0; i<response.data.Data.length; i++)
+          { 
+              this.todoslist.push(response.data.Data[i]['ToDo']);
+          }
+          console.log(this.todoslist[0]);
+      }).catch((error) => {
+          console.log("Error in Getting Lists", error);
+      });
+    },
+    async insertlists(){
+      console.log(this.todos)
+      var title = this.$refs.inputFeild.getlistTitle()
+      var data = {
+          Title :  title
+        }
+        await axios.post('http://127.0.0.1:8000/insert-lists', data, this.config).then( async(response) => {
+          console.log(response);
+          this.todoslist.push(title)
+          this.$refs.inputFeild.clearField()
+      }).catch((error) => {
+          console.log("Error in inserting Lists", error);
+      });
     }
   }
 }
