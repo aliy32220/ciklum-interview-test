@@ -15,16 +15,14 @@ module.exports = {
       "jsx",
       "json"
     ],
-    transform: {
-      "^.+\\.jsx?$": "babel-jest",
-      "^.+\\.tsx?$": "<rootDir>/node_modules/@babel/runtime/helpers/esminteropRequireDefault.js"
-    },
     transformIgnorePatterns: [
-      "/node_modules/(?!interoprequireDefault)"
+      "node_modules/@babel/runtime/helpers/esm/(?!interopRequireDefault.js)",
     ],
-    testRegex: "test/.*\\.spec\\.ts$",
+    transform: {
+      "\\.[jt]sx?$": "D:/ciklum-interview-test/To-Do-App/node_modules/@babel/runtime/helpers/esm/typeof"
+    },
     testEnvironment: "node",
     moduleNameMapper: {
-      "^interopRequireDeafault$": "interopRequireDeafault"
+      "^typeof$": "typeof"
     }
   };
