@@ -8,10 +8,10 @@
           </div>
         </v-card-title>
         <v-card-text>
-          <TodoItem v-for="(todo, index) in todos"
+          <b-form-textarea id="list" v-for="(todo, index) in todoslist"
                     :key="index"
-                    :todo="todo">
-          </TodoItem>
+                    :todo="todo"> {{todo}}<br>
+          </b-form-textarea>
           <InputField ref="inputFeild"></InputField>
         </v-card-text>
         <v-card-actions>
@@ -41,9 +41,6 @@ export default {
     return {
       todoslist: [],
       config: { headers: { 'Accept': 'application/json', 'Content-Type':'application/json' }},
-      todos (){
-        this.todoslist;
-      }
     }
   },
   async created()
@@ -65,7 +62,7 @@ export default {
       });
     },
     async insertlists(){
-      console.log(this.todos)
+      console.log(this.todoslist)
       var title = this.$refs.inputFeild.getlistTitle()
       var data = {
           Title :  title
@@ -86,5 +83,11 @@ export default {
   .title {
     display: flex;
     justify-content: center;
+  }
+  #list{
+    font-size: 20px;
+    font-weight: bold;
+    color: green;
+    border: black;
   }
 </style>

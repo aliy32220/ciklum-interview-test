@@ -19,7 +19,7 @@ export default {
   props: ['todo'],
   data () {
     return {
-      isReadOnly: true,
+      isReadOnly: true
     }
   },
   computed: {

@@ -418,3 +418,25 @@ INFO: 127.0.0.1 - - [17/Nov/2021 18:58:45] "POST /get-lists HTTP/1.1" 200 - on 1
 INFO: 127.0.0.1 - - [17/Nov/2021 18:59:51] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 06:59:51 PM
 INFO: 127.0.0.1 - - [17/Nov/2021 18:59:54] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 06:59:54 PM
 INFO: 127.0.0.1 - - [17/Nov/2021 19:03:31] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 07:03:31 PM
+INFO:  * Restarting with stat on 11/17/2021 07:03:40 PM
+WARNING:  * Debugger is active! on 11/17/2021 07:03:41 PM
+INFO:  * Debugger PIN: 314-959-091 on 11/17/2021 07:03:41 PM
+INFO:  * Running on http://127.0.0.1:8000/ (Press CTRL+C to quit) on 11/17/2021 07:03:41 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 19:03:44] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 07:03:44 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 19:03:44] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 07:03:44 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 19:03:56] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 07:03:56 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 19:03:56] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 07:03:56 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 19:04:30] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 07:04:30 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 19:04:30] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 07:04:30 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 19:09:09] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 07:09:09 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 19:09:09] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 07:09:09 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 19:09:32] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 07:09:32 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 19:09:32] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 07:09:32 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 19:09:40] "OPTIONS /insert-lists HTTP/1.1" 200 - on 11/17/2021 07:09:40 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 19:09:40] "POST /insert-lists HTTP/1.1" 200 - on 11/17/2021 07:09:40 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 19:10:37] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 07:10:37 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 19:10:37] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 07:10:37 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 19:11:08] "OPTIONS /get-lists HTTP/1.1" 200 - on 11/17/2021 07:11:08 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 19:11:09] "POST /get-lists HTTP/1.1" 200 - on 11/17/2021 07:11:09 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 19:11:17] "OPTIONS /insert-lists HTTP/1.1" 200 - on 11/17/2021 07:11:17 PM
+INFO: 127.0.0.1 - - [17/Nov/2021 19:11:17] "POST /insert-lists HTTP/1.1" 200 - on 11/17/2021 07:11:17 PM

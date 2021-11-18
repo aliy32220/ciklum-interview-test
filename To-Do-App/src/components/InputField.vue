@@ -23,12 +23,6 @@ export default {
     }
   },
   methods: {
-    addTodo () {
-      if (this.newItemTitle.length >= MIN_LENGTH_VALIDATION) {
-        this.$store.dispatch('addTodo', this.newItemTitle)
-        this.newItemTitle = ''
-      }
-    },
     getlistTitle(){
       return this.newItemTitle;
     },
